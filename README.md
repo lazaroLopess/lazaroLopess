@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="./seal.gif" alt="Demonstração" width="300px" height="300px">
+  <img src="./seal.gif" alt="Demonstração" width="300px" height="250px">
 </p>
